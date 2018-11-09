@@ -19,7 +19,7 @@ bokeh==0.12.16
 boto==2.48.0
 Bottleneck==1.2.1
 future==0.16.0
-futures==3.2.0
+futures==3.1.1
 ipython==5.7.0
 ipython-genutils==0.2.0
 ipywidgets==7.2.1
