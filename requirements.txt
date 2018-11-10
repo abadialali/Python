@@ -25,7 +25,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.2.1
 lmfit==0.9.11
 matplotlib==2.2.2
-mkl-fft==1.0.0
+mkl-fft==1.0.6
 mpmath==1.0.0
 notebook==5.5.0
 numpy==1.14.3
